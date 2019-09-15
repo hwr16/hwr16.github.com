@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Welcome to huangwanru personal website
 
-You can use the [editor on GitHub](https://github.com/hwr16/hwr16.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Academy of biological sciences, tsinghua university, senior year
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 线虫的知识点
 
-### Markdown
+### 线虫解剖结构
+1. 表皮：大的多核合胞表皮细胞，分泌角质层。角质层形成所需要的几个基因的突变会产生可见的表型，如胶原蛋白基因的突变会导致动物以螺旋状运动。每个幼虫阶段结，线虫会蜕去表皮，分泌新的表皮来适应生长的有机体。
+2. 95个细胞的体壁肌肉，呈斜条纹状，单核细胞
+3. 消化：咽部—食物碾碎；肠道（20个大型多倍体上皮细胞）
+4. 神经：神经元产生和分化、细胞死亡、前体迁移、突触形成、化学感觉和机械感觉转导、神经元变性、神经元突再生和胶质功能。化学趋向性、热趋向性、对触摸的几种反应、雄性特有的交配仪式、社会喂养以及联想和非联想学习。成年雌雄同体—302个神经元；成年雄性—382个神经元。56个胶质细胞。【秀丽隐杆线虫是适合研究高等动物神经系统的最简单模型，因为其细胞数目固定，成年雌雄同体仅有302个神经细胞。而且虫体透明，可以使用荧光蛋白或干涉显微镜追溯发育过程中每个神经元的起源，而且可以通过连续电镜观察神经元之间的接触连接和神经通路模式。它还具有丰富的行为学特征，易于得到行为突变体，可以通过全基因组测序研究相关遗传信息。】
+5. 生殖：雄性和雌雄同体的外部形态是由控制转录因子tra1的调节级联决定的。tra1的活性取决于X与常染色体的比值(或X:A)。在雄性中，tra1不活跃，导致雄性命运和精子的产生。在雌雄同体中，tra1是活跃的，并导致女性的体细胞命运和女性配子的形成。秀丽隐杆线虫还具有剂量补偿系统，可下调雌雄同体中x染色体基因的表达，以平衡两性之间的x连锁表达。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hwr16/hwr16.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 线虫基因组
+整个秀丽隐杆线虫基因组为100 Mb，有20444个蛋白编码基因。秀丽隐杆线虫雌雄均含有5条常染色体和X性染色体。秀丽隐杆线虫的基因以传统的真核生物方式排列，有5 '端、包含外显子和内含子的开放阅读框(ORFs)和3 '端。与脊椎动物基因相比，秀丽隐杆线虫的基因相对较小，平均基因大小为3kb，这主要是因为内含子非常小。染色体不包含传统的着丝粒;在有丝分裂过程中，微管纺锤体沿着染色体附着在一个以上的位置。秀丽隐杆线虫基因组有两个不同寻常的方面:大多数蛋白质编码mrna是反接的，一些基因是由操纵子组织的。[反式剪接是在mRNA的5 '端添加两个22个核苷酸先导序列(SL1和SL2)中的一个。第一个mRNA剪接到SL1，随后mRNA剪接到SL2。编码这些转录本的基因紧密地串联在一起，并在单个启动子的控制下转录。]
